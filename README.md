@@ -1,3 +1,18 @@
+# Project Phase 1: Algorithms and Distributed Systems
+**NOVA School of Science and Technology (NOVA FCT)** – 2024–2025    
+**Final Grade:** 18.30  
+**Group:** 
+  - Ricardo Rodrigues (rf-rodrigues95)
+  - Gonçalo Virgínia (goncalovirginia)
+
+## Project description
+
+[See the PDF](./docs/Project-Phase1.pdf)
+
+## Final report
+
+[See the PDF](./report/ASD_Project_2.pdf)
+
 ## Instructions
 
 ### Compile
